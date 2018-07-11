@@ -1,5 +1,5 @@
-body {}
+body { margin: 50px auto; }
 
-#awesome-sauce { }
+#awesome-sauce { font-size: 72px; color: tomato; }
 
-.extra { }
+.extra { text-decoration: underline; }
